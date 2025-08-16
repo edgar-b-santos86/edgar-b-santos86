@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Edgar Santos
 
 Sou profissional em transição de carreira para a área de **tecnologia**, com foco em desenvolvimento web.  
-Atualmente, iniciei minha formação em **Análise e Desenvolvimento de Sistemas** na **Universidade Cruzeiro do Sul** e estou aprendendo **HTML5** e **CSS3**. Meu objetivo é me tornar um **desenvolvedor full-stack**.
+Atualmente, iniciei minha formação em **Análise e Desenvolvimento de Sistemas** na **Universidade Cruzeiro do Sul** e estou aprendendo **HTML5** e **CSS3**. Meu objetivo é me tornar um **desenvolvedor web e front-end**.
 
 ---
 

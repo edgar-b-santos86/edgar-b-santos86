@@ -7,7 +7,7 @@ Atualmente, iniciei minha formação em **Análise e Desenvolvimento de Sistemas
 
 ## 🚀 Projeto em Andamento
 
-### 📌 [Site de Exigências Cartorárias](https://github.com/edgar-b-santos86/SEU_REPOSITORIO_AQUI)
+### 📌 [Site de Exigências Cartorárias](https://edgar-b-santos86.github.io/projeto_exigencias/)
 Projeto que reúne de forma organizada e acessível as exigências cartorárias para registro de contratos imobiliários.  
 O objetivo é facilitar a consulta e centralizar essas informações de maneira clara, usando HTML e CSS no front-end.
 

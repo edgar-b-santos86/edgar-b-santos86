@@ -33,7 +33,7 @@ O objetivo é facilitar a consulta e centralizar essas informações de maneira 
 
 - 💼 LinkedIn: [linkedin.com/in/dev-edgar-santos](https://www.linkedin.com/in/dev-edgar-santos)  
 - 💻 GitHub: [github.com/edgar-b-santos86](https://github.com/edgar-b-santos86)  
-- 📧 E-mail: **SEUEMAIL@EXEMPLO.COM**
+- 📧 E-mail: edgar.b.santos86@gmail.com
 
 ---
 
@@ -41,5 +41,4 @@ O objetivo é facilitar a consulta e centralizar essas informações de maneira 
 
 - Consolidar meus conhecimentos em **HTML5, CSS3 e JavaScript**
 - Aprimorar lógica de programação
-- Evoluir para frameworks modernos e banco de dados
-- Atuar como **desenvolvedor full-stack**
+- Atuar como **desenvolvedor WEB front-end**
